@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (NNP Metropolitan) (NN police) (NNS personnel)) (VP (VBG specializing) (PP (IN in) (NP (NNS explosives))))) (VP (VBD defused) (NP (NP (DT the) (NNS rockets)) (SBAR (S (NP (DT Some) (CD 100) (NNS people)) (VP (VBD were) (VP (VBG working) (PP (IN inside) (NP (DT the) (NN plant)))))))))))
